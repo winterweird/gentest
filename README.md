@@ -3,7 +3,7 @@
 I put this up on GitHub because I used it to generate random test data for an
 assignment I had for uni, and I decided to make the generating part transparent.
 I actually wrote it some time ago in order to generate simple test data for
-[open.kattis.com](the Kattis judge system), but it ended up being useful here
+[the Kattis judge system](https://www.open.kattis.com), but it ended up being useful here
 too.
 
 Note that this program also relies on some OTHER header-only library I wrote
