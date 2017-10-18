@@ -72,3 +72,13 @@ Disclaimer: I haven't actually tested this on any system but mine, so I can't
 guarantee it works. Also, I haven't really tested double generation either, I
 just brainfarted a method of generating them that made sense to me at the time.
 Don't judge me plz.
+
+## Licensing or whatever
+
+I, uh, I don't really care what anyone does with this code. It's useful to me on
+occasion, and maybe it'll be useful to the aforemented "anyone" sometimes as
+well. I don't think there is any part of the code which warrants any restriction
+on licensing, so I'm gonna just put it out here and say "feel free". But I am
+going to maintain that this program is not guaranteed to work for anyone's
+purposes, and that whatever happens to you and your system from downloading and
+running any code I've written is not my responsibility. Ye have been warned.
