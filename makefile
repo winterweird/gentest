@@ -21,7 +21,7 @@ OBJFILES = $(addprefix $(OBJDIR),$(OBJFILES_NODIR:=.o))
 
 .PHONY: all clean init
 
-all: $(OUTFILE)
+all: init $(OUTFILE)
 
 $(OUTFILE): $(OUTSRCFILE) $(OBJFILES)
 	$(CC) $(CFLAGS) $< $(OBJFILES) $(LIBS) -o $@
