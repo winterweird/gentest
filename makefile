@@ -30,10 +30,10 @@ $(OBJDIR)%.o: $(SRCDIR)%.cpp
 	$(CC) $(CFLAGS) -c $< -o $@
 
 clean:
-	rm obj/* bin/*
+	-rm obj/* bin/*
 
 init:
-	mkdir src bin include lib obj
+	-mkdir src bin include lib obj
 
 install: $(OUTFILE)
 	install -m 0755 $(OUTFILE) $(INSTALL_PATH)$(OUTFILE_BASE)
